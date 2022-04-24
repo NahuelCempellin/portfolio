@@ -1,10 +1,14 @@
 import React from "react";
-
+import {AiFillProfile} from 'react-icons/ai'
+import { Link } from "react-router-dom";
+import { SvgDiv } from "../../../styles/Navbar/nav3";
 
 export default function Contact(){
     return(
-        <div>
-            <p>Contact</p>
-        </div>
+        <SvgDiv>
+            <Link to='/about'>
+            <AiFillProfile/>
+            </Link>
+        </SvgDiv>
     )
 }

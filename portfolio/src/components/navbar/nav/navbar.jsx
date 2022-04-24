@@ -12,10 +12,10 @@ export default function NavBar(){
                 <Log/>
             </div>
             <div>
-                <Nav3/>
+            <Nav2/>
             </div>
             <div>
-            <Nav2/>
+                <Nav3/>
             </div>
         </NavCont>
 

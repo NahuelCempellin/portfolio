@@ -10,3 +10,12 @@ svg{
 }
 
 `
+
+export const SvgDiv= styled.div`
+a{
+    color: white;
+    text-decoration: none;
+}
+
+`
+

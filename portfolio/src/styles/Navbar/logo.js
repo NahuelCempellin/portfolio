@@ -1,6 +1,7 @@
 import styled from "styled-components";
 
 export const Image= styled.img`
-width: 4em;
+width: 100%;
+height: 4em;
 
 `

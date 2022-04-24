@@ -20,3 +20,13 @@ div{
     
 }
 `
+
+export const LanDiv= styled.div`
+display: flex;
+justify-content: space-between;
+width: 50%;
+padding: 1em;
+
+
+`
+
