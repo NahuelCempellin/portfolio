@@ -5,9 +5,16 @@ display: flex;
 align-items: center;
 gap: 2em;
 
+
 svg{
     padding: 0.5em;
 }
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
 
 `
 

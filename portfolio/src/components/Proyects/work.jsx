@@ -1,8 +1,12 @@
 import React from "react";
+import Carousel from "./carousel";
+import { SliderData } from "./imageData";
+
 
 export default function Proyects(){
     return(
     <div>
-
-    </div>)
+        <Carousel slides={SliderData}/>
+    </div>
+    )
 }
